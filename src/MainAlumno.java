@@ -33,6 +33,7 @@ public class MainAlumno {
 		}
 		System.out.println(a1.Resultado());
 		System.out.println();
+		System.out.println("TESTEO 2");
 
 	}
 

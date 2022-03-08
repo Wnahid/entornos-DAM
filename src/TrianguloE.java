@@ -33,6 +33,7 @@ public class TrianguloE {
 		} else {
 			area = (lado * altura) / 2;
 			System.out.println("TESTEO DE GIT");
+			System.out.println("TESTEO 2");
 		}
 		return area;
 	}
