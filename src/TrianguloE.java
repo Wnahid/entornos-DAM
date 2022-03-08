@@ -32,6 +32,7 @@ public class TrianguloE {
 			throw new ArithmeticException("No es posible que la altura sea cero");
 		} else {
 			area = (lado * altura) / 2;
+			System.out.println("TESTEO DE GIT");
 		}
 		return area;
 	}

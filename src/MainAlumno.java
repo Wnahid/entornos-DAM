@@ -32,6 +32,7 @@ public class MainAlumno {
 			System.out.println("Los nombres no son iguales");
 		}
 		System.out.println(a1.Resultado());
+		System.out.println();
 
 	}
 

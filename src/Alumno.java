@@ -23,6 +23,7 @@ public class Alumno {
 
 	public void setApellido(String apellido) {
 		this.apellido = apellido;
+		System.out.println("TESTEO GIT");
 	}
 
 	public int Incrementar() {
